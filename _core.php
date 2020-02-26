@@ -1,7 +1,7 @@
 <?php
 require_once "_phpedb.php";
 $db=new database();
-$db->connect("localhost", "root", "linuxconfig.org");
+$db->connect("localhost", "root", "*******");
 $db->db="questionnaire";
 $db->create_database($db->db, false);
 function getIpAddr(){
