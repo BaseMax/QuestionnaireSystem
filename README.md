@@ -15,6 +15,12 @@ Original files of question are in `help` directory.
 - Run index.php file in your browser (Using webserver)
 - Enjoy!
 
+## Extra tasks for this project
+
+- Solve problem of age pattern (Age is always a positive number)
+- Support persian, arabic number in form
+- Display results as some charts in [result.php](src/result.php) file
+
 ## Demo System
 
 ![Index page to submit a new vote](demo/screenshot1.png)
